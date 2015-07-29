@@ -38,7 +38,8 @@
 	"hubot-humanity":">= 0.0.0",
 	"hubot-seriouslyguys":">= 0.0.0",
 	"hubot-dogeme":">= 0.0.0",
-	"hubot-what-the-fox":">= 0.0.0"
+	"hubot-what-the-fox":">= 0.0.0",
+	"hubot-darts": "1.0.x"
   },
   "engines": {
     "node": "0.10.x"
